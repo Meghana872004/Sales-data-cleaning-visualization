@@ -29,3 +29,7 @@ This project demonstrates end-to-end data cleaning and validation using Python.
 -------
 
  This project reflects real-world data preprocessing workflow.
+
+ ## Author
+    Meghana c
+    Aspiring Data Analyst | Python | Data cleaning | visualization
